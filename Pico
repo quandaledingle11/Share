@@ -12,3 +12,7 @@ effc2fd61976f57208c685b430163555
 yz:Mzߞy
 ƛᷞ:}tk}}Mts}
 4{6wkO^}Ƕ妷G{
+flag = '灩捯䍔䙻ㄶ形楴獟楮獴㌴摟潦弸彥ㄴㅡて㝽'
+decoded_value = flag.encode('utf-16be')
+print(decoded_value)
+picoCTF{16_bits_inst34d_of_8_e141a0f7}
